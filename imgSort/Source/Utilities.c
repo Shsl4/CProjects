@@ -318,7 +318,7 @@ void processSort(const void* funcPtr, const char* funcName, Pixel* pixels, int s
     }
     
 }
-//Pixel* pixels;
+
 /**
  * \brief Copies the pixels of the input image and sorts them. This allows the original image to be unmodified.
  * \param funcPtr A pointer pointing to a sorting function of prototype : float f(Pixel*, int)
